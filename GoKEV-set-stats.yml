@@ -1,0 +1,13 @@
+---
+- name: Run this role
+  hosts: localhost
+
+  vars:
+    role_data:
+      - var_name: First variable
+        var_data: First value
+      - var_name: Second variable
+        var_data: Second value
+
+  roles:
+    - GoKEV.set-stats

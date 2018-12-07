@@ -1,0 +1,7 @@
+---
+# defaults file for GoKEV-set-stats
+role_data:
+  - var_name: First variable
+    var_data: First value
+  - var_name: Second variable
+    var_data: Second value

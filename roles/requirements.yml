@@ -1,0 +1,4 @@
+---
+- name: GoKEV.set-stats
+  version: master
+  src: https://github.com/GoKEV/GoKEV-set-stats.git
